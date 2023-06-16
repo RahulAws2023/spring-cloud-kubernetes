@@ -1,4 +1,4 @@
-# kubernetes-configmap-reload abc
+# kubernetes-configmap-reload
 
 Pre-requisites[    TAKE AMAZON LINUX2 SYSTEM t2.micro]:
 --------
