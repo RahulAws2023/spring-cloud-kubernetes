@@ -80,4 +80,4 @@ Check Deployments, Pods and Services:
     kubectl get pods
     kubectl get svc
     
-
+// Jai Shree Ram _/\_
